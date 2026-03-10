@@ -1,0 +1,5 @@
+{
+  "name": "智学助手 - 小学全科教学平台",
+  "description": "基于2024年义务教育国家课程标准的1-6年级全科教学辅助软件，提供AI互动教学与知识点解析。",
+  "requestFramePermissions": ["microphone"]
+}
